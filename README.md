@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Hi there, I'm Divanshu! 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Web+Developer+%26+Data+Science+Enthusiast;Full+Stack+MERN+Developer;Machine+Learning+Explorer;Competitive+Programming+Enthusiast;Building+Innovative+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Web+Dev+%26+Data+Science+Enthusiast;Full+Stack+MERN+Developer;Machine+Learning+Explorer;Competitive+Programming+Enthusiast;Building+Innovative+Solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
