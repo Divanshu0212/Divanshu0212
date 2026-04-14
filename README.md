@@ -5,7 +5,12 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=🚀+Full+Stack+%26+AI+Agent+Developer;🤖+Machine+Learning+%26+LLM+Engineer;🥇+1st+Place+Cognizance+2026+%40+IIT+Roorkee;⚡+Knight+on+LeetCode+%7C+4★+CodeChef;💡+Building+Autonomous+AI+Systems)](https://git.io/typing-svg)
+<div align="center">
+
+<!-- FIX 1: Typing SVG — removed broken img tag, using anchor+img pattern which forces fresh render -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Full+Stack+%26+AI+Agent+Developer;%F0%9F%A4%96+Machine+Learning+%26+LLM+Engineer;%F0%9F%A5%87+1st+Place+Cognizance+2026+%40+IIT+Roorkee;%E2%9A%A1+Knight+on+LeetCode+%7C+4%E2%98%85+CodeChef;%F0%9F%92%A1+Building+Autonomous+AI+Systems)](https://git.io/typing-svg)
+
+</div>
 
 <br>
 
@@ -77,7 +82,7 @@ motto: "Code with passion, innovate with purpose"
 ### ⚡ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,jwt&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi&theme=dark" />
 </p>
 
 ### 🗄️ Databases
@@ -98,12 +103,6 @@ motto: "Code with passion, innovate with purpose"
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
-### ⚡ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi&theme=dark" />
-</p>
-
 ### 🛠️ DevOps & Tools
 
 <p>
@@ -114,12 +113,11 @@ motto: "Code with passion, innovate with purpose"
 
 ---
 
-
 ## 🏆 GitHub Trophies
 
+<!-- FIX 2: Removed &rank=-C,-B filter — that was excluding too many trophies, causing blank output -->
 <div align="center">
-<!-- REMOVE: &rank=-C,-B  — this filter excludes too many trophies causing blank output -->
-<img src="https://github-profile-trophy.vercel.app/?username=divanshu0212&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=divanshu0212&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophy" />
 </div>
 
 ---
@@ -139,7 +137,6 @@ motto: "Code with passion, innovate with purpose"
 
 <br>
 
-<!-- Profile Summary Cards — reliable alternative for stats overview -->
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divanshu0212&theme=github_dark" alt="Profile Summary" />
 </div>
@@ -172,15 +169,19 @@ motto: "Code with passion, innovate with purpose"
 
 ## 🚀 Featured Projects
 
+<!-- FIX 3: Added &show_owner=true and ensured repos are spelled correctly -->
+<!-- NOTE: These pin cards only work if the repos are PUBLIC on GitHub -->
 <div align="center">
-<a href="https://github.com/divanshu0212/BitByBit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=divanshu0212&repo=BitByBit&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&show_owner=true" />
+<a href="https://github.com/divanshu0212/delivrd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=divanshu0212&repo=delivrd&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&show_owner=true" />
 </a>
 <a href="https://github.com/divanshu0212/bigdocs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=divanshu0212&repo=bigdocs&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&show_owner=true" />
 </a>
 </div>
+
 <br>
+
 <div align="center">
 <a href="https://github.com/divanshu0212/trackfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=divanshu0212&repo=trackfolio&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&show_owner=true" />
