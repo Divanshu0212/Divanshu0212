@@ -173,7 +173,7 @@ motto: "Code with passion, innovate with purpose"
 <!-- NOTE: These pin cards only work if the repos are PUBLIC on GitHub -->
 <div align="center">
 <a href="https://github.com/divanshu0212/delivrd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=divanshu0212&repo=delivrd&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=divanshu0212&repo=BitByBit&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&show_owner=true" />
 </a>
 <a href="https://github.com/divanshu0212/bigdocs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=divanshu0212&repo=bigdocs&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&show_owner=true" />
