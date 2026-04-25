@@ -7,7 +7,6 @@
 
 <div align="center">
 
-<!-- FIX 1: Typing SVG — removed broken img tag, using anchor+img pattern which forces fresh render -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Full+Stack+%26+AI+Agent+Developer;%F0%9F%A4%96+Machine+Learning+%26+LLM+Engineer;%F0%9F%A5%87+1st+Place+Cognizance+2026+%40+IIT+Roorkee;%E2%9A%A1+Knight+on+LeetCode+%7C+4%E2%98%85+CodeChef;%F0%9F%92%A1+Building+Autonomous+AI+Systems)](https://git.io/typing-svg)
 
 </div>
@@ -115,9 +114,31 @@ motto: "Code with passion, innovate with purpose"
 
 ## 🏆 GitHub Trophies
 
-<!-- FIX 2: Removed &rank=-C,-B filter — that was excluding too many trophies, causing blank output -->
+<!--
+  Trophy mirrors — GitHub renders whichever loads first.
+  Primary: github-profile-trophy.vercel.app (official)
+  Mirrors: community-hosted forks for load balancing
+  NOTE: No rank filter applied — show ALL trophies (the -C,-B filter was hiding most of them!)
+-->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=divanshu0212&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophy" />
+
+  <!-- Primary endpoint -->
+  <img src="https://github-profile-trophy.vercel.app/?username=divanshu0212&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" onerror="this.style.display='none'" />
+
+</div>
+
+<!-- Mirror 1: community fork (fallback if primary is rate-limited) -->
+<div align="center">
+
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=divanshu0212&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies Mirror" />
+
+</div>
+
+<!-- Mirror 2: alternative fully-unlocked fork -->
+<div align="center">
+
+  <img src="https://github-trophies.vercel.app/?username=divanshu0212&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies Extended" />
+
 </div>
 
 ---
@@ -131,8 +152,13 @@ motto: "Code with passion, innovate with purpose"
 
 </div>
 
+<!-- Top Languages: Circular Donut Chart + Compact side by side -->
 <div align="center">
-  <img width="40%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=divanshu0212&layout=compact&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&langs_count=10" alt="Top Languages" />
+
+  <img width="38%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=divanshu0212&layout=donut&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages Donut" />
+  &nbsp;&nbsp;
+  <img width="38%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=divanshu0212&layout=compact&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&langs_count=10" alt="Top Languages Compact" />
+
 </div>
 
 <br>
@@ -169,8 +195,6 @@ motto: "Code with passion, innovate with purpose"
 
 ## 🚀 Featured Projects
 
-<!-- FIX 3: Added &show_owner=true and ensured repos are spelled correctly -->
-<!-- NOTE: These pin cards only work if the repos are PUBLIC on GitHub -->
 <div align="center">
 <a href="https://github.com/divanshu0212/delivrd">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=divanshu0212&repo=BitByBit&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&show_owner=true" />
