@@ -42,7 +42,11 @@ location: India 🇮🇳
 currently_working_on:
   - Autonomous AI Agents & LLM Systems
   - Full-Stack MERN Applications
+  - Multi-Tenant SaaS ERP Systems (EduHub)
   - Competitive Programming
+
+experience:
+  - "💼 Advanced Application Engineer (AEH) Intern @ Accenture India"
 
 competitive_programming:
   - "⚔️  LeetCode — Knight Badge"
@@ -51,6 +55,7 @@ competitive_programming:
 
 achievements:
   - "🥇 1st Place — Cognizance 2026, IIT Roorkee"
+  - "🏆 MongoDB Track Winner — HackByte 4.0 (MLH Official)"
   - "🏆 HackByte 3.0 — Top 8 / 1,200+ teams"
   - "🚀 Flipkart Grid 7.0 — Semi-Finalist"
   - "🎤 City-wide Debate — 20+ competing teams"
@@ -102,10 +107,35 @@ motto: "Code with passion, innovate with purpose"
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
+### 🧠 GenAI & Agentic AI
+
+<p>
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multi--Agent%20Orchestration-00A67E?style=for-the-badge&logo=robotframework&logoColor=white" />
+</p>
+
+### 📈 Data & Visualization
+
+<p>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
 ### 🛠️ DevOps & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,postman,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,docker,postman,vscode,redis,rabbitmq,prometheus,grafana,githubactions&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/PgBouncer-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpacetimeDB-000000?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
 </div>
@@ -182,6 +212,7 @@ motto: "Code with passion, innovate with purpose"
 | 🏅 Achievement | 📋 Details |
 |---|---|
 | 🥇 **Cognizance 2026, IIT Roorkee** | **1st Place** — Asia's 2nd largest student tech fest |
+| 🏆 **HackByte 4.0 (MLH Official)** | **MongoDB Track Winner** — built ELIXA, a GenAI-powered agentic event orchestration platform |
 | 🏆 **HackByte 3.0** | Top 8 among 1,200+ teams nationwide |
 | 🚀 **Flipkart Grid 7.0** | Semi-Finalist in India's largest tech challenge |
 | ⚔️ **LeetCode** | Knight Badge — strong quantitative problem-solving |
@@ -209,6 +240,14 @@ motto: "Code with passion, innovate with purpose"
 <div align="center">
 <a href="https://github.com/divanshu0212/trackfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=divanshu0212&repo=trackfolio&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&show_owner=true" />
+</a>
+</div>
+
+<br>
+
+<div align="center">
+<a href="https://github.com/Divanshu0212/ERP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Divanshu0212&repo=ERP&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&show_owner=true" />
 </a>
 </div>
 
@@ -246,6 +285,27 @@ motto: "Code with passion, innovate with purpose"
 
 </details>
 
+<details>
+<summary><b>🎓 EduHub — Multi-Tenant SaaS University ERP Platform &nbsp;🏗️ Capstone Project</b></summary>
+<br>
+
+> 🔹 Architected as **13 independently deployable microservices** (Django REST Framework + FastAPI) across 7 fully-implemented domains (auth, finance, hostel, transport, grievance, notification, AI), onboarding unlimited universities on one common database/schema
+> 🔹 Event-driven backbone on a **RabbitMQ** topic exchange routing 9+ domain event types with a transactional outbox, idempotent inbox, and dead-letter queuing — zero cross-service synchronous coupling
+> 🔹 Zero-trust **JWT (HS256)** auth independently re-verified by all 13 services with row-level tenant isolation; 2 production-grade distributed sagas including an ML-powered grievance auto-escalation pipeline (VADER sentiment scoring)
+> 🔹 Validated with **143+ backend tests** (≥70% coverage gate) and 19 frontend tests via a 4-stage CI/CD pipeline, with Prometheus/Grafana observability across all services
+
+</details>
+
+<details>
+<summary><b>🎫 ELIXA — GenAI-Powered Agentic Event Orchestration Platform &nbsp;🏆 MongoDB Track Winner @ HackByte 4.0 (MLH)</b></summary>
+<br>
+
+> 🔹 Converts plain-language event descriptions into **30–60 dependency-linked tasks** across 6 phases using **Gemini 2.5 Flash**, with phase-gated checkpoints and ElevenLabs Turbo v2 voice announcements
+> 🔹 Full backend architecture: **5 SpacetimeDB live-state tables**, all Next.js 14 API routes, and a 3-layer persistence system (SpacetimeDB → HTTP relay → MongoDB fallback) for resilient session handling
+> 🔹 Real-time task sync optimized to **sub-300ms latency** across 6 role-scoped operator types, with a dependency-locked Go/No-Go launch gate requiring 100% critical-task completion
+
+</details>
+
 ---
 
 ## 🎯 Current Focus
@@ -255,6 +315,7 @@ motto: "Code with passion, innovate with purpose"
 ```
 🤖 Autonomous AI Agents & LLM pipelines    🔥 Full-stack MERN applications
 📊 Data science & ML advancement           🏆 Competitive programming & algorithms
+🏗️ Multi-tenant SaaS architecture (EduHub)
 ```
 
 </div>
