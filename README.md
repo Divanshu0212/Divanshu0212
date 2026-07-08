@@ -157,7 +157,7 @@ motto: "Code with passion, innovate with purpose"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=divanshu0212&title_color=00d9ff&icon_color=7b2ff7&text_color=c9d1d9&bg_color=0d1117&no-frame=true&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies" />
+<img src="https://raw.githubusercontent.com/divanshu0212/divanshu0212/output/trophy.svg" alt="GitHub Trophies" width="100%" />
 
 </div>
 
