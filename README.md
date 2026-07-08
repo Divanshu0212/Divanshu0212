@@ -175,9 +175,9 @@ motto: "Code with passion, innovate with purpose"
 
 <br>
 
-<img width="38%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=divanshu0212&layout=donut&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages Donut" />
+<img width="38%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=divanshu0212&layout=donut&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8&cache_seconds=21600&v=2" alt="Top Languages Donut" />
 &nbsp;&nbsp;
-<img width="38%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=divanshu0212&layout=compact&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&langs_count=10" alt="Top Languages Compact" />
+<img width="38%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=divanshu0212&layout=compact&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&langs_count=10&cache_seconds=21600&v=2" alt="Top Languages Compact" />
 
 <br><br>
 
