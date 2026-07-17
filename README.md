@@ -215,71 +215,64 @@ motto: "Code with passion, innovate with purpose"
 ## 🚀 Featured Projects
 
 <div align="center">
-<a href="https://github.com/divanshu0212/delivrd">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=divanshu0212&repo=BitByBit&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=7b2ff7&show_owner=true" />
+<a href="https://github.com/Divanshu0212/ERP">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Divanshu0212&repo=ERP&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=7b2ff7&show_owner=true" />
 </a>
-<a href="https://github.com/divanshu0212/bigdocs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=divanshu0212&repo=bigdocs&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=7b2ff7&show_owner=true" />
+<a href="https://github.com/Divanshu0212/b2bsaas">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Divanshu0212&repo=b2bsaas&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=7b2ff7&show_owner=true" />
 </a>
 <br>
-<a href="https://github.com/divanshu0212/trackfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=divanshu0212&repo=trackfolio&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=7b2ff7&show_owner=true" />
+<a href="https://github.com/Divanshu0212/BITBYBIT">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Divanshu0212&repo=BITBYBIT&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=7b2ff7&show_owner=true" />
 </a>
-<a href="https://github.com/Divanshu0212/ERP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Divanshu0212&repo=ERP&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=7b2ff7&show_owner=true" />
+<a href="https://github.com/Divanshu0212/Elixa">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Divanshu0212&repo=Elixa&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=7b2ff7&show_owner=true" />
 </a>
 </div>
 
 <br>
 
 <details>
-<summary><b>🤖 Delivrd — Autonomous AI Payment & Project Agent &nbsp;🥇 1st Place @ IIT Roorkee</b></summary>
-<br>
-
-`LLaMA 3.3` `Groq` `Docker` `SonarQube` `HMAC-SHA256`
-
-> 🔹 AI-powered freelance platform using **LLaMA 3.3 (Groq)** — autonomously decomposes projects into milestones
-> 🔹 **4-layer code verification pipeline**: AST static analysis → Docker sandbox → SonarQube → LLM semantic review
-> 🔹 **SHA-256 chain-hashed escrow ledger** with HMAC-SHA256 signed financial operations for tamper-proof payments
-> 🔹 **Professional Fidelity Index (PFI, 300–1000)** — credit-score-style freelancer reputation tracking
-
-</details>
-
-<details>
-<summary><b>🏥 BigDocs — Healthcare Management System</b></summary>
-<br>
-
-`ML` `Real-time Systems` `Analytics`
-
-> 🔹 AI disease prediction with **92% accuracy** across **100+ diseases**
-> 🔹 Real-time appointment system supporting **50+ concurrent users** with **1,000+ medical records** daily
-> 🔹 Comprehensive analytics platform with strong statistical modelling
-
-</details>
-
-<details>
-<summary><b>📊 TrackFolio — AI-Powered Career Analytics Platform</b></summary>
-<br>
-
-`NLP` `TF-IDF` `Cosine Similarity`
-
-> 🔹 ATS tracking system with multi-dimensional scoring across **15+ parameters**
-> 🔹 **12% improvement** in compatibility scores via TF-IDF analysis
-> 🔹 **3.2x performance improvement** and **89% enhancement** in analytical accuracy through NLP/ML pipelines
-> 🔹 Semantic & cosine similarity candidate-matching algorithms
-
-</details>
-
-<details>
 <summary><b>🎓 EduHub — Multi-Tenant SaaS University ERP Platform &nbsp;🏗️ Capstone Project</b></summary>
 <br>
 
-`Django REST Framework` `FastAPI` `RabbitMQ` `JWT` `Prometheus/Grafana`
+`Django REST Framework` `FastAPI` `PostgreSQL 16` `RabbitMQ` `JWT` `Prometheus/Grafana`
 
 > 🔹 Architected as **13 independently deployable microservices** across 7 fully-implemented domains (auth, finance, hostel, transport, grievance, notification, AI), onboarding unlimited universities on one common database/schema
 > 🔹 Event-driven backbone on a **RabbitMQ** topic exchange routing 9+ domain event types with a transactional outbox, idempotent inbox, and dead-letter queuing — zero cross-service synchronous coupling
 > 🔹 Zero-trust **JWT (HS256)** auth independently re-verified by all 13 services with row-level tenant isolation; 2 production-grade distributed sagas including an ML-powered grievance auto-escalation pipeline (VADER sentiment scoring)
 > 🔹 Validated with **143+ backend tests** (≥70% coverage gate) and 19 frontend tests via a 4-stage CI/CD pipeline, with Prometheus/Grafana observability across all services
+
+**Links:** [GitHub](https://github.com/Divanshu0212/ERP)
+
+</details>
+
+<details>
+<summary><b>📈 SalesPipe — Multi-Tenant B2B Sales CRM (Event-Driven Modular Monolith) &nbsp;💼 Personal Project</b></summary>
+<br>
+
+`Java 21` `Spring Boot 3` `Spring Modulith` `Apache Kafka` `Debezium (CDC)` `Kubernetes`
+
+> 🔹 Designing a multi-tenant B2B Sales CRM as a modular monolith spanning **10 domain modules** (identity, CRM core, pipeline, activity, email tracking, scoring, notification, eventing, reporting) with compile-time boundary enforcement via Spring Modulith + ArchUnit, deployed on Kubernetes with HPA autoscaling across 3–10 pods
+> 🔹 Architected a transactional-outbox event backbone (**Debezium CDC → Kafka**) spanning 5 domain event topics with Schema Registry-enforced compatibility and idempotent, dedupe-store-backed consumers; a chaos test recovering a 300-event burst mid-crash processed all 300 events exactly once with zero loss or duplication
+> 🔹 Building an AI lead-scoring pipeline fusing **Sentence-BERT (384-dim)** embeddings with structured features into an XGBoost/LightGBM classifier served via FastAPI behind a Resilience4j circuit breaker, with MLflow-managed versioning and auto-promotion gated on AUC-ROC and precision@k
+> 🔹 Modeled an 18-table multi-tenant schema with Hibernate row-level tenant isolation, rotating refresh tokens with reuse detection, and HMAC-signed email-tracking tokens
+
+**Links:** [GitHub](https://github.com/Divanshu0212/b2bsaas)
+
+</details>
+
+<details>
+<summary><b>🤖 Delivrd — Agentic AI Payment & Project Orchestration Platform &nbsp;🥇 1st Place @ IIT Roorkee Cognizance 2026</b></summary>
+<br>
+
+`FastAPI` `PostgreSQL (async SQLAlchemy 2)` `Groq LLaMA 3.3-70B` `React 19` `Docker` `SonarQube` `HMAC-SHA256`
+
+> 🔹 AI-powered freelance platform using **LLaMA 3.3-70B (Groq)** — autonomously decomposes projects into 3–9 milestones, with modality-aware verification (code, content, design) and cryptographically secured escrow payments
+> 🔹 **4-layer code verification pipeline**: AST static analysis → Docker sandbox → SonarQube → LLM semantic review, plus a 7-step content and 5-dimension design verification pipeline
+> 🔹 **SHA-256 chain-hashed escrow ledger** with HMAC-SHA256 signed, idempotency-keyed financial operations for tamper-proof payments
+
+**Links:** [GitHub](https://github.com/Divanshu0212/BITBYBIT/) | [Demo](https://youtu.be/zmmz4AUS84E)
 
 </details>
 
@@ -287,11 +280,13 @@ motto: "Code with passion, innovate with purpose"
 <summary><b>🎫 ELIXA — GenAI-Powered Agentic Event Orchestration Platform &nbsp;🏆 MongoDB Track Winner @ HackByte 4.0 (MLH)</b></summary>
 <br>
 
-`Gemini 2.5 Flash` `SpacetimeDB` `Next.js 14` `MongoDB` `ElevenLabs`
+`Gemini 2.5 Flash` `SpacetimeDB` `Next.js 14` `MongoDB Atlas` `ElevenLabs`
 
 > 🔹 Converts plain-language event descriptions into **30–60 dependency-linked tasks** across 6 phases using **Gemini 2.5 Flash**, with phase-gated checkpoints and ElevenLabs Turbo v2 voice announcements
 > 🔹 Full backend architecture: **5 SpacetimeDB live-state tables**, all Next.js 14 API routes, and a 3-layer persistence system (SpacetimeDB → HTTP relay → MongoDB fallback) for resilient session handling
 > 🔹 Real-time task sync optimized to **sub-300ms latency** across 6 role-scoped operator types, with a dependency-locked Go/No-Go launch gate requiring 100% critical-task completion
+
+**Links:** [GitHub](https://github.com/Divanshu0212/Elixa) | [Demo](https://youtu.be/CcdWeXapRUU) | [Live](https://elixa2.vercel.app/)
 
 </details>
 
