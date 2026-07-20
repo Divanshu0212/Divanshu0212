@@ -215,17 +215,17 @@ motto: "Code with passion, innovate with purpose"
 ## 🚀 Featured Projects
 <div align="center">
 <a href="https://github.com/Divanshu0212/ERP">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Divanshu0212&repo=ERP&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=7b2ff7&show_owner=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Divanshu0212&repo=ERP&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=7b2ff7&show_owner=true&v=2" />
 </a>
 <a href="https://github.com/Divanshu0212/b2bsaas">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Divanshu0212&repo=b2bsaas&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=7b2ff7&show_owner=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Divanshu0212&repo=b2bsaas&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=7b2ff7&show_owner=true&v=2" />
 </a>
 <br>
 <a href="https://github.com/Divanshu0212/BITBYBIT">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Divanshu0212&repo=BITBYBIT&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=7b2ff7&show_owner=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Divanshu0212&repo=BITBYBIT&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=7b2ff7&show_owner=true&v=2" />
 </a>
 <a href="https://github.com/Divanshu0212/Elixa">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Divanshu0212&repo=Elixa&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=7b2ff7&show_owner=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Divanshu0212&repo=Elixa&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=7b2ff7&show_owner=true&v=2" />
 </a>
 </div>
 
