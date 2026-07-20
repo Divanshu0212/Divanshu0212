@@ -213,7 +213,6 @@ motto: "Code with passion, innovate with purpose"
 
 <a id="projects"></a>
 ## 🚀 Featured Projects
-
 <div align="center">
 <a href="https://github.com/Divanshu0212/ERP">
   <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Divanshu0212&repo=ERP&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=7b2ff7&show_owner=true" />
