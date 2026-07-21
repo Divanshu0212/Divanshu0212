@@ -170,7 +170,7 @@ motto: "Code with passion, innovate with purpose"
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=divanshu0212&show_icons=true&count_private=true&hide_border=true&title_color=00d9ff&icon_color=7b2ff7&text_color=c9d1d9&bg_color=0d1117" />
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=divanshu0212&show_icons=true&count_private=true&hide_border=true&title_color=00d9ff&icon_color=7b2ff7&text_color=c9d1d9&bg_color=0d1117&v=3" />
 <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=divanshu0212&hide_border=true&background=0D1117&border=0D1117&stroke=0D1117&ring=00d9ff&fire=7b2ff7&currStreakNum=ffffff&currStreakLabel=00d9ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=6b7280" alt="GitHub Streak" />
 
 <br>
@@ -181,7 +181,7 @@ motto: "Code with passion, innovate with purpose"
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=divanshu0212&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&area_color=7b2ff7" alt="Activity Graph" width="97%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=divanshu0212&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&area_color=7b2ff7&v=2" alt="Activity Graph" width="97%" />
 
 </div>
 
